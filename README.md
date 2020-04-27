@@ -1,10 +1,8 @@
-<h1 align="center">
-    <img alt="Budgety" title="#fullstacklab" src="logo.png" width="250px" />
-</h1>
 
-<h4 align="center">
-  🚀 Budgety
-</h4>
+
+<h1 align="center">
+  :money_with_wings: Budgety :money_with_wings:
+</h1>
 
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
