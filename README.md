@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido no curso The Complete JavaScript Course, logo a pr
 
 ## 🎨 Layout e Planejamento
 
-O autor do curso deixou clara a importância de um bom planejamento prévio do projeto, divindo os passos a serem seguidos e no final montando a arquitetura do processo.
+O autor do curso deixou clara a importância de um bom planejamento prévio do projeto, dividindo os passos a serem seguidos e no final montando a arquitetura do processo.
 
 Passo 1:
 ![Passo 1](https://github.com/ChristySchott/budgety.github.io/blob/master/plan1.PNG)
